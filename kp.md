@@ -17,4 +17,4 @@ Aktuelle Tätigkeit:
 
   * Seit 2015: Wissenschaftlicher Mitarbeiter und Doktorand am Lehrstuhl für Öffentliches Recht, Völkerrecht und Europarecht von Prof. Dr. iur. Marc Bungenberg an der Universität des Saarlandes.
 
-Stefan Schelhaas: stefan.s@siegener-wirtschaftsjuristen.de
+Stefan Schelhaas: <stefan.s@siegener-wirtschaftsjuristen.de>

@@ -18,4 +18,4 @@ Aktuelle Tätigkeit:
   * 2016-2018: Junior Legal Counsel bei der GKN Driveline International GmbH.
   * Seit 2018: Legal Counsel bei der GKN Driveline International GmbH.
 
-Marcel Jordan: marcel.j@siegener-wirtschaftsjuristen.de
+Marcel Jordan: <marcel.j@siegener-wirtschaftsjuristen.de>

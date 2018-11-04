@@ -19,4 +19,4 @@ Aktuelle Tätigkeit:
   * Bis 2016: Wissenschaftlicher Mitarbeiter und Doktorand am Lehrstuhl für Öffentliches Recht (Staats- und Verwaltungsrecht), Europarecht, Völkerrecht und Internationales Wirtschaftsrecht von Prof. Dr. iur. Marc Bungenberg an der Universität Siegen.
 
 
-Jens Arndt: jens.a@siegener-wirtschaftsjuristen.de
+Jens Arndt: <jens.a@siegener-wirtschaftsjuristen.de>

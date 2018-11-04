@@ -17,4 +17,4 @@ Aktuelle Tätigkeit:
 
   * Seit 01/2015: Wissenschaftlicher Mitarbeiter und Doktorand an der Professur für Öffentliches Wirtschaftsrecht, Technik- und Umweltrecht von Prof. Dr. iur. Rainer Schröder an der Universität Siegen.
 
-Julien Mahieu: julien.m@siegener-wirtschaftsjuristen.de
+Julien Mahieu: <julien.m@siegener-wirtschaftsjuristen.de>

@@ -7,14 +7,14 @@ subtitle:
 Siegener Wirtschaftsjuristen e. V.  
 Postfach 21 03 43   
 57027 Siegen  
-E-Mail: info@siegener-wirtschaftsjuristen.de  
+E-Mail: <info@siegener-wirtschaftsjuristen.de>  
 
 __Vorstand (gemeinschaftlich vertretungsbefugt)__  
 Vorstandsvorsitzender: Julien Mahieu, Siegen  
 Stellv. Vorstandsvorsitzender: Marcel Jordan, Köln  
 Finanzvorstand: Jens Arndt, Backnang  
 
-Kontakt: info@siegener-wirtschaftsjuristen.de
+Kontakt: <info@siegener-wirtschaftsjuristen.de>
 
 __Vereinsregister__  
 Registergericht: Amtsgericht Siegen  

@@ -6,7 +6,7 @@ subtitle: Siegener Wirtschaftsjuristen e. V.
 
 
 
-Unser gemeinnütziger Verein ist ein Zusammenschluss von Studierenden und Ehemaligen des Studiengangs „Deutsches und Europäisches Wirtschaftsrecht“ an der Universität Siegen.
+Unser gemeinnütziger Verein ist ein Zusammenschluss von Studierenden und Ehemaligen des Studiengangs **„Deutsches und Europäisches Wirtschaftsrecht“** an der Universität Siegen.
 
 Die Zahl der Siegener Wirtschaftsjuristen, die mit Beendigung ihres Studiums die Universität verlassen und weit verteilt auf den Arbeitsmarkt und in die Wirtschaft drängen, nimmt stetig zu. Vor diesem Hintergrund haben sich im Wintersemester 2004/05 (Vereinseintragung am 30.03.2005) einige Studenten höheren Semesters mit dem Ziel zusammengesetzt, auch nach Abschluss des Studiums in Kontakt zu bleiben.
 
@@ -45,9 +45,9 @@ __Mitglied werden?__
 
 Falls du dem Verein Siegener Wirtschaftsjuristen e. V. beitreten möchtest, reiche bitte das folgende
 
-Aufnahmeformular
+[Aufnahmeformular](http://www.siegener-wirtschaftsjuristen.de/wp-content/uploads/2016/08/Aufnahmeantrag-Siegener-Wirtschaftsjuristen-e.-V..pdf)
 
-ausgefüllt und unterschrieben (eingescannt) per Mail an info@siegener-wirtschaftsjuristen.de ein. Das Formular (PDF) lässt sich mit Adobe Reader digital ausfüllen!
+ausgefüllt und unterschrieben (eingescannt) per Mail an <info@siegener-wirtschaftsjuristen.de> ein. Das Formular (PDF) lässt sich mit Adobe Reader digital ausfüllen!
 
 Alternativ kann der Aufnahmeantrag auch in das Postfach von Julien Mahieu (c/o Prof. Dr. Schröder) im Campus „Unteres Schloss“ (im Umschlag z. Hd. Julien Mahieu) eingeworfen werden.
 
@@ -62,4 +62,4 @@ Ehrenmitglied können natürliche Personen werden, die sich durch herausragendes
 
 ### Satzung und Beitragsordnung
 
-Aktuelle Satzung und Beitragsordnung vom 21.12.2015 als PDF.
+Aktuelle Satzung und Beitragsordnung vom 21.12.2015 als [PDF](http://www.siegener-wirtschaftsjuristen.de/wp-content/uploads/2016/08/Satzung-und-Beitragsordnung-v.-21.12.15.pdf).
