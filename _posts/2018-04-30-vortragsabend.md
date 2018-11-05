@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SWJ e. V. Vortragsabend „Berufsperspektiven für Wirtschaftsjuristen“ – 09.05.18, 19:30 Uhr, US-F 304
-image: /img/aussicht.jpg
+image: /img/Aussicht.jpg
 ---
 
 Am Mittwoch, den 9. Mai 2018, veranstaltet der **Siegener Wirtschaftsjuristen e. V.** um 19:30 Uhr im Raum US-F 304 einen Vortragsabend zu **„Berufsperspektiven für Wirtschaftsjuristen“**.
