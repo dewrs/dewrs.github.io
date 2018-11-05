@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mitgliederversammlung + Weihnachtsfeier 2016
-image: /img/kugel.jpg
+image: /img/Kugel.jpg
 ---
 	
 
