@@ -2,6 +2,7 @@
 layout: post
 title: Wiedereinführung des SWJ-Stammtisches
 image: /img/gemeinschaft.jpg
+bigimg: /img/siegen.jpg
 ---
 	
 
