@@ -2,6 +2,7 @@
 layout: post
 title: SWJ e. V.-Sponsoring des Infoabends „Beschäftigungsmöglichkeiten von Wirtschaftsjuristen bei Freshfields“
 image: /img/anmelden.jpg
+bigimg: /img/unteres_schloss.jpg
 ---
 
 
