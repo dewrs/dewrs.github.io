@@ -2,6 +2,7 @@
 layout: post
 title: Auftaktveranstaltung 03.11.2016
 image: /img/versammlung.jpg
+bigimg: /img/unteres_schloss.jpg
 ---
 	
 
