@@ -2,6 +2,7 @@
 layout: post
 title: Mitgliederversammlung & Weihnachtsfeier 2017
 image: /img/kugel.jpg
+bigimg: /img/unteres_schloss_winter.jpg
 ---
 
 
