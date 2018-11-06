@@ -2,7 +2,7 @@
 layout: post
 title: 14. Mitgliederversammlung 2018
 image: /img/meeting.jpg
-bigimg: /img/siegen.jpg
+bigimage: /img/siegen.jpg
 ---
 
 
