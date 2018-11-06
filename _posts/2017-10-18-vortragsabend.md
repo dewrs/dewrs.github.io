@@ -2,6 +2,7 @@
 layout: post
 title: SWJ e. V. Vortragsabend „Berufsperspektiven für Wirtschaftsjuristen“ – DO, 30.11., 19:30 Uhr, US-F 304
 image: /img/aussicht.jpg
+bigimg: /img/unteres_schloss.jpg
 ---
 	
 
