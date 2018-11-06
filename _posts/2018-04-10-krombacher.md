@@ -2,6 +2,7 @@
 layout: post
 title: SWJ e. V. Krombacher-Tour 26.04.2018
 image: /img/krombacher.jpg
+bigimg: /img/siegen.jpg
 ---
 		
 
