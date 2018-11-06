@@ -66,6 +66,7 @@ footer-link-col: "#404040"
 bigimg: 
   /img/unteres_schloss.jpg"
   /img/siegen.jpg"
+big-img: "/img/unteres_schloss.jpg"
 
 # --- Footer options --- #
 
