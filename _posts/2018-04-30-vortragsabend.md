@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SWJ e. V. Vortragsabend „Berufsperspektiven für Wirtschaftsjuristen“ – 09.05.18, 19:30 Uhr, US-F 304
-image: /img/Auftakt.jpg
+image: /img/versammlung.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
 
