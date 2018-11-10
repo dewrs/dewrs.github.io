@@ -211,8 +211,11 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+HEAD
     tzinfo-data (1.2018.7)
       tzinfo (>= 1.0.0)
+
+dd0894836eefbae2b35688d7affaf36116764110
     unicode-display_width (1.4.0)
 
 PLATFORMS
@@ -222,7 +225,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
-  tzinfo-data
+
 
 BUNDLED WITH
    1.17.1
