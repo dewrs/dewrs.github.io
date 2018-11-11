@@ -10,11 +10,11 @@ Auf Einladung des *Siegener Wirtschaftsjuristen e. V.* werden am
 **Mittwoch, den 21. November um 19:00 Uhr in US-F 304**
 
 *Herr Jörg Hahn, Senior Manager und
-Dr. Norman Bade, Project Manager im Bereich Legal Solutions*
+Dr. Norman Bade,
+Project Manager im Bereich Legal Solutions*
 
 von der renommierten internationalen Wirtschaftskanzlei Freshfields **Bruckhaus Deringer LLP**
 einen Vortrag bzw. Infoabend über 
-
 „**Tätigkeitsfelder und Beschäftigungsmöglichkeiten von Wirtschaftsjuristen bei Freshfields**“ halten.
 Freshfields gehört zu den größten und erfolgreichsten Anwaltskanzleien der Welt und beschäftigt bereits mehrere Wirtschaftsjuristen der Universität Siegen.
 
