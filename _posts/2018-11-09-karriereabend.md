@@ -2,7 +2,7 @@
 layout: post
 title: Karriereabend mit Freshfields – MI, 21.11.18, 19:00 Uhr, US-F 304
 image: /img/london.jpg
-bigimg: /img/unteres_schloss.jpg
+bigimg: /img/bridge.jpg
 ---
 	
 
