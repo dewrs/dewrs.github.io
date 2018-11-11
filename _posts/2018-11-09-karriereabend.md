@@ -14,6 +14,7 @@ Dr. Norman Bade, Project Manager im Bereich Legal Solutions*
 
 von der renommierten internationalen Wirtschaftskanzlei Freshfields **Bruckhaus Deringer LLP**
 einen Vortrag bzw. Infoabend über 
+
 „**Tätigkeitsfelder und Beschäftigungsmöglichkeiten von Wirtschaftsjuristen bei Freshfields**“ halten.
 Freshfields gehört zu den größten und erfolgreichsten Anwaltskanzleien der Welt und beschäftigt bereits mehrere Wirtschaftsjuristen der Universität Siegen.
 
