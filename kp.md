@@ -2,7 +2,7 @@
 layout: page
 title: Stefan Schelhaas
 subtitle: Kassenprüfer seit 12/2015
-bigimg: img/schloss.jpg
+bigimg: /img/unteres_schloss_bw.jpg
 ---
 
 Geb. 1981 in Hachenburg, RP
