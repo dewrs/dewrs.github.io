@@ -2,6 +2,7 @@
 layout: page
 title: Jens Arndt
 subtitle: Finanzvorstand seit 12/2015
+bigimg: img/schloss.jpg
 ---
 
 Geb. 1984 in Goch, NRW
