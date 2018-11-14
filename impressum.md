@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 subtitle: 
+bigimg: img/schloss.jpg
 ---
 
 Siegener Wirtschaftsjuristen e. V.  
