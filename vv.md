@@ -2,6 +2,7 @@
 layout: page
 title: Julien Mahieu
 subtitle: Vorstandsvorsitzender seit 12/2015
+bigimg: img/schloss.jpg
 ---
 
 Geb. 1989 in Düren, NRW
