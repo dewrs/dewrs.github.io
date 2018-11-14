@@ -2,7 +2,7 @@
 layout: page
 title: Verein
 subtitle: Siegener Wirtschaftsjuristen e. V.
-bigimg: img/schloss.jpg
+bigimg: /img/unteres_schloss_bw.jpg
 ---
 
 
