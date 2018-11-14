@@ -2,7 +2,7 @@
 layout: page
 title: Studiengang
 subtitle: Bachelor (LL.B.) – Master (LL.M.) – Promotion an der Fakultät III Wirtschaftswissenschaften, Wirtschaftsinformatik und Wirtschaftsrecht der Universität Siegen
-bigimg: img/unteres_schloss_bw.jpg
+bigimg: /img/unteres_schloss_bw.jpg
 ---
 
 # Der Studiengang im Überblick
