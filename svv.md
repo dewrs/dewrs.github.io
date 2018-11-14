@@ -2,6 +2,7 @@
 layout: page
 title: Marcel Jordan
 subtitle: Stellvertretender Vorstandsvorsitzender seit 12/2015
+bigimg: img/schloss.jpg
 ---
 
 Geb. 1987 in Köln
