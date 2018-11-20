@@ -46,7 +46,7 @@ __Mitglied werden?__
 
 Falls du dem Verein Siegener Wirtschaftsjuristen e. V. beitreten möchtest, reiche bitte das folgende
 
-[Aufnahmeformular]({{https://github.com/dewrs/dewrs.github.io}}/blob/master/Aufnahmeantrag.pdf)
+[Aufnahmeformular]({https://github.com/dewrs/dewrs.github.io/blob/master/Aufnahmeantrag.pdf}})
 
 ausgefüllt und unterschrieben (eingescannt) per Mail an <info@siegener-wirtschaftsjuristen.de> ein. Das Formular (PDF) lässt sich mit Adobe Reader digital ausfüllen!
 
