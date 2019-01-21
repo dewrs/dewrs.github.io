@@ -7,8 +7,6 @@ bigimg: /img/unteres_schloss_bw.jpg
 
 Geb. 1987 in Köln
 
-Aktueller Wohnort: Köln
-
 Abschlüsse:
 
   * LL.B. DEWR, Universität Siegen (2012)
