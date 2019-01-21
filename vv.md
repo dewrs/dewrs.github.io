@@ -10,7 +10,7 @@ Geb. 1992 in Frankfurt am Main, Hessen
 
 Abschlüsse:
 
- * LL.B. Wirtschaftsrecht, Frankfurt University of Applied Sciences (2013)
+ * LL.B. Wirtschaftsrecht, Frankfurt University of Applied Sciences (2016)
  * LL.M. DEWR, Universität Siegen (2018)
  
 Aktuelle Tätigkeit:
