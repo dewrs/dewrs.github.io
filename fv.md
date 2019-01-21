@@ -7,8 +7,6 @@ bigimg: /img/unteres_schloss_bw.jpg
 
 Geb. 1984 in Goch, NRW
 
-Aktueller Wohnort: Backnang, BW
-
 Abschluss:
 
   * Diplom-Wirtschaftsjurist, Universität Siegen (2009)
