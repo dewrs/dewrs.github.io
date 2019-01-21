@@ -4,7 +4,6 @@ title: Clarissa Zentgraf
 subtitle: Vorstandsvorsitzender seit 12/2018
 bigimg: /img/unteres_schloss_bw.jpg
 ---
-Clarissa Zentgraf
 
 Geb. 1992 in Frankfurt am Main, Hessen
 
@@ -23,6 +22,7 @@ Clarissa Zentgraf: <clarissa.z@siegener-wirtschaftsjuristen.de>
 
 
 **Ehemaliger Vorstandsvorsitzender 12/2015-11/2018**
+
 Julien Mahieu, geb. 1989 in Düren, NRW
 
 Abschlüsse:
@@ -33,4 +33,5 @@ Abschlüsse:
 Aktuelle Tätigkeit:
 
   * Seit 01/2018: PwC Cyber Security Services GmbH, Düsseldorf
+
 Julien Mahieu: <julien.m@siegener-wirtschaftsjuristen.de>
