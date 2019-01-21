@@ -50,7 +50,7 @@ Falls du dem Verein Siegener Wirtschaftsjuristen e. V. beitreten möchtest, reic
 
 ausgefüllt und unterschrieben (eingescannt) per Mail an <info@siegener-wirtschaftsjuristen.de> ein. Das Formular (PDF) lässt sich mit Adobe Reader digital ausfüllen!
 
-Alternativ kann der Aufnahmeantrag auch in das Postfach von Julien Mahieu (c/o Prof. Dr. Schröder) im Campus „Unteres Schloss“ (im Umschlag z. Hd. Julien Mahieu) eingeworfen werden.
+Alternativ kann der Aufnahmeantrag auch in das Postfach von Clarissa Zentgraf (c/o Prof. Dr. Schröder) im Campus „Unteres Schloss“ (im Umschlag z. Hd. Clarissa Zentgraf) eingeworfen werden.
 
 Bei Interesse oder Fragen: einfach per Mail kontaktieren!
 
