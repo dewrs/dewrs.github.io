@@ -21,6 +21,7 @@ Clarissa Zentgraf: <clarissa.z@siegener-wirtschaftsjuristen.de>
 
 
 
+
 **Ehemaliger Vorstandsvorsitzender 12/2015-11/2018**
 
 Julien Mahieu, geb. 1989 in Düren, NRW
@@ -32,6 +33,6 @@ Abschlüsse:
 
 Aktuelle Tätigkeit:
 
-  * Seit 01/2018: PwC Cyber Security Services GmbH, Düsseldorf
+  * Seit 01/2019: PwC Cyber Security Services GmbH, Düsseldorf
 
 Julien Mahieu: <julien.m@siegener-wirtschaftsjuristen.de>
