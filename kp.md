@@ -7,8 +7,6 @@ bigimg: /img/unteres_schloss_bw.jpg
 
 Geb. 1981 in Hachenburg, RP
 
-Aktueller Wohnort: Gebhardshain, RP
-
 Abschluss:
 
   * LL.B. DEWR, Uni Siegen (2014)
