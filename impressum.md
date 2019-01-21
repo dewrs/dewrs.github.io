@@ -11,9 +11,9 @@ Postfach 21 03 43
 E-Mail: <info@siegener-wirtschaftsjuristen.de>  
 
 __Vorstand (gemeinschaftlich vertretungsbefugt)__  
-Vorstandsvorsitzender: Julien Mahieu, Siegen  
-Stellv. Vorstandsvorsitzender: Marcel Jordan, Köln  
-Finanzvorstand: Jens Arndt, Backnang  
+Vorstandsvorsitzender: Clarissa Zentgraf  
+Stellv. Vorstandsvorsitzender: Marcel Jordan
+Finanzvorstand: Jens Arndt  
 
 Kontakt: <info@siegener-wirtschaftsjuristen.de>
 
