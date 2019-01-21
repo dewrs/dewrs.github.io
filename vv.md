@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clarissa Zentgraf
-subtitle: Vorstandsvorsitzender seit 12/2018
+subtitle: Vorstandsvorsitzende seit 12/2018
 bigimg: /img/unteres_schloss_bw.jpg
 ---
 
