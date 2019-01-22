@@ -2,7 +2,7 @@
 layout: page
 title: Jens Arndt
 subtitle: Finanzvorstand seit 12/2015
-bigimg: /img/unteres_schloss_bw.jpg
+bigimg: /img/siegen_bw.jpg
 ---
 
 Geb. 1984 in Goch, NRW
