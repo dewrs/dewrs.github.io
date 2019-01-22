@@ -2,7 +2,7 @@
 layout: page
 title: Clarissa Zentgraf
 subtitle: Vorstandsvorsitzende seit 12/2018
-bigimg: /img/unteres_schloss_bw.jpg
+bigimg: /img/siegen_bw.jpg
 ---
 
 Geb. 1992 in Frankfurt am Main, Hessen
