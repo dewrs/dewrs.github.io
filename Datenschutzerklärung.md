@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Impressum
+title: Datenschutzerklärung
 subtitle: 
 bigimg: /img/unteres_schloss_bw.jpg
 ---
