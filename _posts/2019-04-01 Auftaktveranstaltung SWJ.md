@@ -8,7 +8,7 @@ bigimg: /img/unteres_schloss.jpg
 
 
 
-Die Auftaktveranstaltung des Siegener Wirtschaftsjuristen e. V. zum Sommersemester2019 findet statt am
+Die Auftaktveranstaltung des Siegener Wirtschaftsjuristen e. V. zum Sommersemester 2019 findet statt am
 
 Mittwoch, 10.04.2019, 19:30 Uhr, im Raum US-D 321.
 
