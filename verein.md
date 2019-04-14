@@ -11,7 +11,7 @@ Unser gemeinnütziger Verein ist ein Zusammenschluss von Studierenden und Ehemal
 
 Die Zahl der Siegener Wirtschaftsjuristen, die mit Beendigung ihres Studiums die Universität verlassen und weit verteilt auf den Arbeitsmarkt und in die Wirtschaft drängen, nimmt stetig zu. Vor diesem Hintergrund haben sich im Wintersemester 2004/05 (Vereinseintragung am 30.03.2005) einige Studenten höheren Semesters mit dem Ziel zusammengesetzt, auch nach Abschluss des Studiums in Kontakt zu bleiben.
 
-Neben dem persönlichen Austausch zwischen Studenten und Absolventen untereinander wollen wir eine Plattform schaffen, die die Möglichkeit bietet, fachliche und zugleich berufliche Synergieeffekte zu nutzen.
+Neben dem persönlichen Austausch zwischen Studierenden und Absolventen untereinander wollen wir eine Plattform schaffen, die die Möglichkeit bietet, fachliche und zugleich berufliche Synergieeffekte zu nutzen.
 
 Hierzu veranstalten wir regelmäßige Vereinstreffen, fachliche Veranstaltungen und sonstige Events.
 
