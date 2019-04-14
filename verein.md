@@ -17,7 +17,7 @@ Hierzu veranstalten wir regelmäßige Vereinstreffen, fachliche Veranstaltungen 
 
 Im Kontakt der Ehemaligen zur Universität, zu den Professoren und insbesondere zur Studierendenschaft sehen wir Vorteile für alle Seiten: Theorie und Praxis werden zusammengeführt, die gemeinsame Interessenvertretung dient der weiteren Förderung des Studiengangs.
 
-Für Fragen und Informationen sowie Anregungen und Vorschläge jeglicher Art stehen wir unter info<at>siegener-wirtschaftsjuristen.de gern zur Verfügung.
+Für Fragen und Informationen sowie Anregungen und Vorschläge jeglicher Art stehen wir unter info@siegener-wirtschaftsjuristen.de gern zur Verfügung.
 
 Wir sehen uns als aktiver Verein, der vom Engagement aller Mitglieder lebt!
 
