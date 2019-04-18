@@ -22,6 +22,6 @@ Im Anschluss findet ein geselliges Meet & Greet statt. Getränke & Knabbereien w
 
 Hierzu sind alle Vereinsmitglieder und Wirtschaftsjuristen der Universität Siegen herzlich eingeladen.
 
-Weitere Informationen können Sie dem beigefügten [Flyer](/img/Flyer_Vortrag_Uni Siegen_ONLINE.pdf)entnehmen.
+Weitere Informationen können Sie dem beigefügten [Flyer](/img/Flyer_Vortrag_Uni Siegen_ONLINE.pdf) entnehmen.
 
 Wir freuen uns auf einen interessanten Abend!
