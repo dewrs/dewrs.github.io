@@ -15,7 +15,7 @@ Im Anschluss, bis ca. 21 Uhr, lädt EY wieder alle Teilnehmer zum abschließende
 Bitte registriert Euch **bis zum 117.10.2019** über Unisono in der Veranstaltung „Workshop mit EY“. 
 Die Teilnehmeranzahl ist begrenzt.
 
-Weitere Informationen können dem beigefügten [Flyer](/img/Plakat_25.04._SteuerWS.pdf) entnommen werden.
+Weitere Informationen können dem beigefügten [Flyer](/img/GrundlagendesProjektmanagements-SWJundEY.pdf) entnommen werden.
 
 Wir freuen uns auf eine rege Teilnahme. Bei Rückfragen könnt Ihr Euch gerne an Frau Clarissa Zentgraf (zentgraf@recht.uni-siegen.de) oder info@siegener-wirtschaftsjuristen.de wenden.
 
