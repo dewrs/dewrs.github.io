@@ -5,7 +5,7 @@ image: /img/versammlung.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
 
-Am Donnerstag, den 7. November 2019, veranstaltet der **Siegener Wirtschaftsjuristen e. V.** um 19:30 Uhr im Raum US-F 304 einen Vortragsabend zu **„Berufsperspektiven für Wirtschaftsjuristen“**.
+Am Donnerstag, den 7. November 2019, veranstaltet der **Siegener Wirtschaftsjuristen e.V.** um 19:30 Uhr im Raum US-F 304 einen Vortragsabend zu **„Berufsperspektiven für Wirtschaftsjuristen“**.
 
 Referieren werden
 
@@ -21,7 +21,7 @@ Im Anschluss an diese interessanten Vorträge findet ein geselliges Meet & Greet
 
 Für Getränke und Knabbereien sorgt der SWJ e. V.
 
-Alle Interessierten sind herzlich eingeladen. Aus organisatorischen Gründen wird um formlose Anmeldung per Mail anzentgraf@recht.uni-siegen.de gebeten. Eine spontane Teilnahme ist aber ebenso möglich.
+Alle Interessierten sind herzlich eingeladen. Aus organisatorischen Gründen wird um formlose Anmeldung per Mail an zentgraf@recht.uni-siegen.de gebeten. Eine spontane Teilnahme ist aber ebenso möglich.
 
 Wir freuen uns auf einen interessanten Abend und eine rege Teilnahme.
 
