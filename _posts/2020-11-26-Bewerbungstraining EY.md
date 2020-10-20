@@ -14,4 +14,4 @@ In der über Zoom stattfindenden Veranstaltung zeigen Euch die erfahrenen Recrui
 Die Anmeldungen sind ab jetzt bis zum 19.11.2020 über Unisono in der Veranstaltung „Workshop mit EY" möglich. (Wer keinen Zugang mehr zu Unisono hat, kann sich auch per E-Mail anmelden!) Die Teilnehmeranzahl ist begrenzt. Sollten mehr Anmeldungen als zur Verfügung stehende Plätze eingehen, entscheidet das Los.  Im Anschluss werden die Einwahldaten per E-Mail zugesendet.
 
 Wir freuen uns auf eine rege Teilnahme. Bei Rückfragen stehen wir gerne per E-Mail (info@siegener-wirtschaftsjuristen.de) zur Verfügung. 
-Alle Infos finde Ihr auch nochmals im angehängten [Flyer](/img/Screen_HR Plakat EY Bewerber Workshop_HFI-2009-697_v1.pdf).
+Alle Infos findet Ihr auch nochmals im angehängten [Flyer] (/img/Screen_HR Plakat EY Bewerber Workshop_HFI-2009-697_v1.pdf).
