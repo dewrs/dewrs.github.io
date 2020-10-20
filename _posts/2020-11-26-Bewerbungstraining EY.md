@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bewerbung 3.0 - Virtueller Workshop mit EY  26.11.2020, 16:30 Uhr
-image: /img/business.jpg
-bigimg: /img/business.jpg
+image: /img/meeting.jpg
+bigimg: /img/meeting.jpg
 ---
 
 Die Corona-Pandemie beeinflusst nicht nur unseren privaten Alltag, auch die Berufswelt muss sich den neuen Gegebenheiten und Herausforderungen anpassen. Inbesondere im Bewerbungsprozess finden mittlerweile viele der Bewerbungsgespräche zunächst virtuell statt.
