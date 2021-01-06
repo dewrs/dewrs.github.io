@@ -6,7 +6,8 @@ bigimg: /img/bridge.jpg
 ---
 	
 
-Auf Einladung des *Siegener Wirtschaftsjuristen e. V.* wird am **Donnerstag, den 28. Januar 2021 um 17:30 Uhr digital über Zoom** *Herr Jörg Hahn, Senior Manager mit Verstärkung
+Auf Einladung des *Siegener Wirtschaftsjuristen e. V.* wird am 
+**Donnerstag, den 28. Januar 2021 um 17:30 Uhr digital über Zoom* *Herr Jörg Hahn, Senior Manager mit Verstärkung
 von der renommierten internationalen Wirtschaftskanzlei **Freshfields Bruckhaus Deringer LLP** einen Vortrag bzw. Infoabend über 
 „**Tätigkeitsfelder und Beschäftigungsmöglichkeiten von Wirtschaftsjuristen bei Freshfields**“ halten.
 Neben dem Vortrag gibt es natürlich auch die Gelegenheit Fragen zu stellen. Sehr gerne könnt Ihr bereits im Vorfeld eure Fragen an Herrn Hahn per E-Mail (info@siegener-wirtschaftsjuristen.de) bei uns einreichen.
