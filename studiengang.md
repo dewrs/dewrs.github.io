@@ -7,21 +7,14 @@ bigimg: /img/unteres_schloss_bw.jpg
 
 # Der Studiengang im Überblick
 
-Der Studiengang des Deutschen und Europäischen Wirtschaftsrechts ist ein innovativer, international ausgerichteter und interdisziplinärer Vollzeitstudiengang. Das erste Ziel des Studiums ist die Erreichung des __Bachelor-Abschlusses__ (Bachelor of Laws, LL.B.), an den ein __Master-Studium__ (Master of Laws, LL.M.) angeschlossen werden kann. 60 % entfallen auf die wirtschaftsrelevanten Teile des Rechts und 40 % auf die Wirtschaftswissenschaften.
+Der Studiengang des Deutschen und Europäischen Wirtschaftsrechts ist ein innovativer, international ausgerichteter und interdisziplinärer Vollzeitstudiengang. Das erste Ziel des Studiums ist die Erreichung des __Bachelor-Abschlusses__ (Bachelor of Laws, LL.B.), an den ein __Master-Studium__ (Master of Laws, LL.M.) angeschlossen werden kann. 70 % entfallen auf die wirtschaftsrelevanten Teile des Rechts und 30 % auf die Wirtschaftswissenschaften.
 
 Der sechssemestrige Bachelor (LL.B.) schafft ein breites Grundlagenwissen in den wirtschaftsnahen Bereichen des Rechts und in den Wirtschaftswissenschaften. Darüber hinaus wird der Schwerpunkt auf die Aneignung von Softskills für einen erfolgreichen Einstieg ins Berufsleben gelegt.
 
 Die Fokus liegt hier insbesondere auf:
 Bürgerliches Recht, Unternehmensrecht, Öffentliches Recht, Internationales Wirtschaftsrecht, Investition & Finanzierung, Marketing, Management und Rechtsenglisch.
 
-Der viersemestrige Master (LL.M.) baut auf dem bereits erworbenen Wissen auf und vertieft spezifische Inhalte. So steht während des Masters neben Management und rechtlichen Inhalten vor allem die zu wählende Spezialisierung im Vordergrund.
-
-Hierbei werden folgende zwei Schwerpunktbereiche angeboten:
-
-Unternehmensrecht (Europäisches und Deutsches Wettbewerbsrecht, Konzern- und Umwandlungsrecht, Recht der Kreativwirtschaft, Deutsches und Europäisches Arbeitsrecht).
-
-Europäisches und Internationales Wirtschaftsrecht (International Trade and Investment, Globalization and Sustainable Development, European and International Competition and Governance, International and Comparative Business Law).
-
+Der viersemestrige Master (LL.M.) baut auf dem bereits erworbenen Wissen auf und vertieft spezifische Inhalte. So steht während des Masters neben Management und rechtlichen Inhalten vor allem die zu wählende Spezialisierung (Unternehmensrecht oder Recht der globalisierten Wirtschaft) im Vordergrund.
 
 
 # LL.B. DEWR
@@ -42,8 +35,7 @@ __Inhalte des Studiengangs (Auszug):__
   * Management,
   * Rechtsenglisch.
 
-Der Bachelor vereint wirtschafts- und rechtswissenschaftliche Themen in idealer Art und Weise. So können Sie nach Abschluss des Bachelors neben dem fachspezifischen Master-Studiengang „Deutsches und Europäisches Wirtschaftsrecht“ auch andere betriebswirtschaftliche Master-Studiengänge studieren. Die Fakultät III der Universität Siegen bietet seit dem Wintersemester 2009/10 beispielsweise folgende Aufbaustudiengänge an: „Accounting, Auditing and Taxation“, „Management und Märkte“, „Controlling und Risikomanagement“, „Management kleiner und mittlerer Unternehmen“ und „Economics“.
-
+Der Bachelor vereint wirtschafts- und rechtswissenschaftliche Themen in idealer Art und Weise. So können Sie nach Abschluss des Bachelors neben dem fachspezifischen Master-Studiengang „Deutsches und Europäisches Wirtschaftsrecht“ auch den betriebswirtschaftlichen Master „Accounting, Auditing and Taxation“ studieren.
 
 # LL.M. DEWR
 
@@ -55,12 +47,14 @@ Die Ausbildung erfolgt, wie auch im Bachelor, interdisziplinär und bietet folge
       * Europäisches und Deutsches Wettbewerbsrecht,
       * Konzern- und Umwandlungsrecht,
       * Recht der Kreativwirtschaft,
-      * Deutsches und Europäisches Arbeitsrecht.
-  * __Europäisches und Internationales Wirtschaftsrecht__, mit Fokus insbesondere auf
-      * International Trade and Investment,
+      * Vertiefung Arbeitsrecht
+      * Compliance und Datenschutzrecht.
+  * __Recht der globalisierten Wirtschaft__, mit Fokus insbesondere auf
       * Globalization and Sustainable Development,
-      * European and International Competition and Governance,
-      * International and Comparative Business Law.
+      * Regulierungsrecht,
+      * International Investment Law,
+      * Privatrechtsvergleichung- und harmonisierung,
+      * Europäisches Behilfe- und Vergaberecht.
 
 
 # Promotion
@@ -79,7 +73,7 @@ Das Promotionsvorhaben setzt die Betreuung durch einen geeigneten Doktorvater vo
 
 Bei Fragen zum Studiengang Deutsches und Europäisches Wirtschaftsrecht an der Universität Siegen helfen die erfahrenen Mitglieder sowie der Vorstand des Vereins in aller Regel gerne weiter.
 
-Hierzu bieten sich das Forum dieser Seite, die regelmäßigen Vereinsveranstaltungen oder die direkte Kontaktaufnahme an.
+Hierzu bieten sich die regelmäßigen Vereinsveranstaltungen oder die direkte Kontaktaufnahme an.
 
 
 # Referenzen
