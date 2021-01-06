@@ -6,16 +6,17 @@ bigimg: /img/siegen_bw.jpg
 ---
 
 
-Geb. 1987 in Köln
+Geb. 1993 in Köln, NRW
 
 Abschlüsse:
 
-  * LL.B. DEWR, Universität Siegen (2012)
-  * LL.M. DEWR, Universität Siegen (2019)
+  * LL.B. DEWR, Universität Siegen (2017)
+  * LL.M. DEWR, Universität Siegen (2020)
 
 Aktuelle Tätigkeit:
 
-  * Seit 07/2018: Wissenschaftlicher Mitarbeiter und Doktorand an der Professur für Öffentliches Recht und Internationales Wirtschaftsrecht von Prof. Dr. iur. Jörn Griebel an der Universität Siegen
+  * Seit 09/2020: Wissenschaftlicher Mitarbeiter und Doktorand an der Professur für Öffentliches Recht und Internationales Wirtschaftsrecht von Prof. Dr. iur. Jörn Griebel an der Universität Siegen
+  * Seit 03/2020: Wissenschaftlicher Mitarbeiter in der Kanzlei Hundt und Kollegen, Siegen
 
 Dominik Schmidt: <dominik.s@siegener-wirtschaftsjuristen.de>
 
