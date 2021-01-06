@@ -21,8 +21,7 @@ Dominik Schmidt: <dominik.s@siegener-wirtschaftsjuristen.de>
 
 
 
-
-Ehemaliger Vorstandsvorsitzende 12/2015-11/2020
+**Ehemaliger Vorstandsvorsitzende 12/2015-11/2020**
 
 Marcel Jordan, geb. 1987 in Köln, NRW
 
