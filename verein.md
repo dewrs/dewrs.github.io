@@ -31,7 +31,7 @@ Gemäß § 4 unserer Satzung gibt es drei verschiedene Mitgliedschaften:
   * Ehrenmitgliedschaft
 
 Die ordentliche (übliche) Mitgliedschaft steht allen aktuellen und ehemaligen Studierenden des Studiengangs Deutsches und Europäisches Wirtschaftsrecht (Bachelor, Master, Diplom) an der Universität Siegen offen (§ 4 Abs. 2 Satzung).
-Von eingeschriebenen Studierenden wird ein Jahresbeitrag von 10,00 Euro, von Ehemaligen/Alumnis ein Jahresbeitrag von 20,00 Euro erhoben (§§ 1, 2 Abs. 1 Beitragsordnung).
+Von eingeschriebenen Studierenden und von Ehemaligen/Alumnis wird ein einheitlicher Jahresbeitrag von 15,00 Euro erhoben (§§ 1, 2 Abs. 1 Beitragsordnung).
 
 __Einige Vorteile der Mitgliedschaft__:
 
@@ -63,4 +63,4 @@ Ehrenmitglied können natürliche Personen werden, die sich durch herausragendes
 
 ### Satzung und Beitragsordnung
 
-Aktuelle Satzung und Beitragsordnung vom 21.12.2015 als [PDF](/img/Satzung.pdf).
+Aktuelle Satzung und Beitragsordnung vom 01.01.2021 als [PDF](/img/Satzung.pdf).
