@@ -63,4 +63,4 @@ Ehrenmitglied können natürliche Personen werden, die sich durch herausragendes
 
 ### Satzung und Beitragsordnung
 
-Aktuelle Satzung und Beitragsordnung vom 01.01.2021 als [PDF](/img/Satzung.pdf)..
+Aktuelle Satzung und Beitragsordnung vom 01.01.2021 als [PDF](/img/Satzung.pdf).
