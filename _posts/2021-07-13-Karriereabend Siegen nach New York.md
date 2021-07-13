@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Karriereabend "Von Siegen nach New York" – Do, 22.07, 18:00 Uhr, digital über Zoom
-image: /img/london.jpg
-bigimg: /img/bridge.jpg
+image: /img/schloss.jpg
+bigimg: /img/schloss.jpg
 ---
 	
 
