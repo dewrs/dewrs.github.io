@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transaction Lawyer @Freshfiels Bruckhaus Deringer
+title: Transaction Lawyer @Freshfiels Bruckhaus Deringer - Do, 20.01.2022, 17:30 Uhr, digital über Zoom
 image: /img/anmelden.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
