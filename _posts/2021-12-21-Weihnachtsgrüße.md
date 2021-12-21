@@ -5,7 +5,7 @@ image: /img/weihnachtsmarkt.jpg
 bigimg: /img/siegen_weihnachtsmarkt.jpg
 ---
 
-wir blicken auch in diesem Jahr auf ein für uns alle turbulentes 2021 zurück. Die Corona-Pandemie hat uns in weiten Teilen weiterhin im Griff gehabt, auch wenn zwischenzeitlich 
+Wir blicken auch in diesem Jahr auf ein für uns alle turbulentes 2021 zurück. Die Corona-Pandemie hat uns in weiten Teilen weiterhin im Griff gehabt, auch wenn zwischenzeitlich 
 - zumindest in den Sommermonaten - ein Stück Normalität zurückkehren konnte. Gerade diese Phasen hat der Verein genutzt, um Veranstaltungen in Präsenz  anzubieten. 
 Besonders freuen wir uns über die positive Ressonanz hinsichtlich der Wiederbelebung der monatlichen Stammtische. Wir hoffen, diese im neuen Jahr aufrechtzuerhalten.
 Daneben konnten wir eine Reihe von digitalen Fachveranstaltungen anbieten, die ebenfalls auf rege Teilnahme gestoßen sind. 
