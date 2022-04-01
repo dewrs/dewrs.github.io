@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programm Sommersemester 2022
-image: /img/versammlung.jpg
+image: /img/agenda.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
 	
