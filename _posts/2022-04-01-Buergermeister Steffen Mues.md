@@ -9,7 +9,7 @@ bigimg: /img/unteres_schloss.jpg
 Heute möchten wir Euch gemeinsam mit Dr. Andreas Berg (Lehrbeauftragter am Lehrstuhl von Prof. Schröder) ganz herzlich zum Gastvortrag von Herrn Steffen Mues, Bürgermeister der Stadt Siegen, einladen.
 
 Der Vortrag findet am Dienstag, den 03. Mai 2022 von 18:00-20:00 Uhr im neuen Hörsaalzentrum der Uni statt. 
-Den Einladungsflyer mit allen weiteren Infos findet Ihr hier.
+Den Einladungsflyer mit allen weiteren Infos findet Ihr [hier](/img/Vortragsankündigung Bürgermeister Steffen Mues.pdf).
 
 Herr Mues wird ca. 30-45 Minuten Praxiseinblicke in die Hürden der "Corona-Politik" geben und steht im Anschluss für eine Diskussion bereit. 
 Sollten es die universitären Regularien zulassen, sponsert der Siegener Wirtschaftsjuristen Verein im Nachgang das ein oder andere Getränk.
