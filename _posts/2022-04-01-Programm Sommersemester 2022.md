@@ -11,7 +11,7 @@ Wir freuen uns mit Euch gemeinsam in das Sommersemester 2022 zu starten und Stü
 Nachfolgend findet Ihr das vorläufige Programm für das Sommersemester 2022:
 
  - 06.04 Stammtisch April (ab 19:00 Uhr im Gartenhaus, Auf den  Hütten 12, 57076 Siegen/Weidenau)
- - 12.04 Auftaktveranstaltung
+ - 12.04 Semesterauftaktveranstaltung 
  - 26.04 Vortrag "Das völkerrechtliche Gewaltverbot im Lichte des Ukraine-Kriegs" von Christian Schäfer, LL.M. (Universität Siegen)
  - 03.05 Gastvortrag "Die öffentliche Eingriffsverwaltung im Spannungsfeld von Individualinteressen und Schutz der Rechtsordnung" von Steffen Mues, Bürgermeister der Universitätsstadt Siegen
  - 04.05 Stammtisch Mai
