@@ -6,7 +6,7 @@ bigimg: /img/siegen_bw.jpg
 ---
 
 
-Geb. 1993 in Köln, NRW
+Geb. 1993 in Siegen, NRW
 
 Abschlüsse:
 
@@ -16,7 +16,7 @@ Abschlüsse:
 Aktuelle Tätigkeit:
 
   * Seit 09/2020: Wissenschaftlicher Mitarbeiter und Doktorand an der Professur für Öffentliches Recht und Internationales Wirtschaftsrecht von Prof. Dr. iur. Jörn Griebel an der Universität Siegen
-  * Seit 03/2020: Wissenschaftlicher Mitarbeiter in der Kanzlei Hundt und Kollegen, Siegen
+  
 
 Dominik Schmidt: <dominik.s@siegener-wirtschaftsjuristen.de>
 
