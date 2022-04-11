@@ -12,7 +12,7 @@ E-Mail: <info@siegener-wirtschaftsjuristen.de>
 
 __Vorstand (gemeinschaftlich vertretungsbefugt)__  
 Vorstandsvorsitzender: Clarissa Zentgraf  
-Stellv. Vorstandsvorsitzender: Marcel Jordan   
+Stellv. Vorstandsvorsitzender: Dominik Schmidt  
 Finanzvorstand: Jens Arndt  
 
 Kontakt: <info@siegener-wirtschaftsjuristen.de>
