@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stammtisch Mai - Mittwoch, 04.05
+title: Stammtisch Mai - am Mittwoch, 04.05.2022
 image: /img/erzquell.jpg
 bigimg: /img/siegen.jpg
 ---
