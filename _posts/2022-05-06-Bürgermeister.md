@@ -7,6 +7,7 @@ bigimg: /img/schloss.jpg
 
 Einige Wochen nach Aufnahme des Präsenzbetriebs an der Universität Siegen, durfte der Studiengang Deutsches und Europäisches Wirtschaftsrecht am 03. Mai 2022 
 eine Präsenzveranstaltung der seltenen Art präsentieren.
+
 Der Bürgermeister der Universitätsstadt Siegen, Herr Steffen Mues, kam als Referent im Rahmen eines verwaltungsrechtlichen Seminars an der 
 Professur für Öffentliches Recht, Technik- und Umweltrecht (Prof. Dr. iur. Rainer. J. Schröder) in das neue Hörsaalzentrum der Universität Siegen. 
 Unter dem Seminartitel „Die öffentliche Eingriffsverwaltung im Spannungsfeld von Individualinteressen und Schutz der Rechtsordnung“ begrüßte zunächst der 
