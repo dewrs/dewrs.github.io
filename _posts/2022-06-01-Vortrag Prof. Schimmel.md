@@ -12,6 +12,7 @@ Verständlichkeit ist keine Schande – Eine Expedition durch den juristischen S
 Euch erwartet ein interaktiver Vortrag, der sich dem juristischen Sprachgebrauch widmet. Unerträglich lange Sätze, Schachtelsatzkonstruktionen, Substantivanhäufungen sowie Behördenpassiv, Fremdwörter und überflüssiges Latein oder Englisch gehören oftmals zur Tagesordnung des juristischen Berufs. Doch geht das nicht verständlicher? – Und ob! Prof. Dr. Schimmel legt den Finger in die Wunde und präsentiert einen Perspektivwechsel im Hinblick auf das „Juristendeutsch“.
 
 Wann: Dienstag, den 14.06.2022 um 18:30 Uhr
+
 Wo: US-C 109 (Hörsaalzentrum im Karstadt-Gebäude, Universität Siegen)
 
 Für Snacks und Getränke wird gesorgt sein. Zwecks Planung bitten wir um vorherige Anmeldung via unisono (3GRIEB401V, 5. PG). Bitte vergebt bei der Anmeldung zur Veranstaltung – aus technischen Gründen – die Priorität 1; weitere Prioritäten müssen nicht verteilt werden. Wer keinen Zugang zu unisono hat, kann sich gerne auch per E-Mail oder Whatsapp anmelden.
