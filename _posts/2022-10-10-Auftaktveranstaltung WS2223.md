@@ -7,6 +7,7 @@ bigimg: /img/unteres_schloss.jpg
 	
 
 
+Wir starten in das Wintersemester!
 
 Die Auftaktveranstaltung des Siegener Wirtschaftsjuristen e. V. zum Wintersemester 2022/2023 findet statt am
 
