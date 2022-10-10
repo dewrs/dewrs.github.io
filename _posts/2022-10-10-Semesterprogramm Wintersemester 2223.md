@@ -14,7 +14,7 @@ Wie gewohnt sind alle unsere Veranstaltungen kostenfrei!
  
  - 02.11 Stammtisch November
  
- - 07.11 "Inhouse" - Praktische Einführung in die Tätigkeit in UNternehmen und Rechtsabteilungen - Hybrider Vortrag von Dr. Christian Herles (RA bei BAER Legal und Syndikusrechtsanwalt bei Doctolib GmbH)
+ - 07.11 / 16:00 Uhr "Inhouse" - Praktische Einführung in die Tätigkeit in UNternehmen und Rechtsabteilungen - Hybrider Vortrag von Dr. Christian Herles (RA bei BAER Legal und Syndikusrechtsanwalt bei Doctolib GmbH)
  
  - 16.11 Hybride Mitgliederversammlung 
  
