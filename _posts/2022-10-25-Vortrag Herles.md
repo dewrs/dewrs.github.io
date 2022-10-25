@@ -13,10 +13,10 @@ Unternehmensinterne Rechtsberatung muss mit dem Betriebsklima und seiner Arbeits
 Der Vortrag bietet praktische Einblicke in den juristischen Alltag in Unternehmen und soll für den Berufseinstieg inspirieren und orientieren. 
 
 Behandelt werden u.a. die folgenden Themen:
-•	Chancen und Vielfalt: Das Berufsfeld der Unternehmensjurist:Innen
-•	Arbeitskultur für Jurist:Innen im Unternehmen: Über Zusammenarbeit und Kommunikation
-•	Anwendungsfälle und wirtschaftsrechtliche Basics
-•	Tipps für die Vorbereitung auf die Tätigkeit als Inhouse-Jurist:In
+- Chancen und Vielfalt: Das Berufsfeld der Unternehmensjurist:Innen
+- Arbeitskultur für Jurist:Innen im Unternehmen: Über Zusammenarbeit und Kommunikation
+- Anwendungsfälle und wirtschaftsrechtliche Basics
+- Tipps für die Vorbereitung auf die Tätigkeit als Inhouse-Jurist:In
 
 
 Dr. Christian Herles ist Rechtsanwalt in der Kanzlei Baer Legal und Syndikusrechtsanwalt bei der Doctolib GmbH. 
