@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Christian Schäfer
-subtitle: Stellvertretender Vorstandsvorsitzender seit 12/2020
+subtitle: Stellvertretender Vorstandsvorsitzender seit 12/2022
 bigimg: /img/siegen_bw.jpg
 ---
 
