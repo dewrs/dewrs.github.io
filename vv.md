@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dominik Schmidt
-subtitle: Vorstandsvorsitzende seit 12/2018
+subtitle: Vorstandsvorsitzender seit 12/2022
 bigimg: /img/siegen_bw.jpg
 ---
 
