@@ -8,6 +8,7 @@ bigimg: /img/siegen_bw.jpg
 Christian Schäfer, geb. 
 
 **Ehemaliger Vorstandsvorsitzende 12/2020-11/2022**
+
 Dominik Schmidt, geb. 1993 in Siegen, NRW
 
 Abschlüsse:
