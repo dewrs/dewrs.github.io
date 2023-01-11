@@ -8,7 +8,7 @@ bigimg: /img/bridge.jpg
 
  Wir freuen uns, Euch heute zur zweiten Veranstaltung des Siegener Wirtschaftsjuristenvereins im neuen Jahr 2023 herzlich einzuladen.
  
- 
+
 Am **Dienstag, den 24. Januar 2023 um 17:30 Uhr**, habt ihr die Möglichkeit mehr über die Tätigkeitsfelder und Beschäftigungsmöglichkeiten für Wirtschaftsjuristen (m/w/x) bei der internationalen Großkanzlei **Freshfields Bruckhaus Deringer** zu erfahren. 
 Freshfields beschäftigt bereits mehrere Wirtschaftsjuristinnen und Wirtschaftsjuristen der Universität Siegen und ist immer auf der Suche nach Verstärkung!
  
