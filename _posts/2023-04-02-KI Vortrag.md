@@ -1,7 +1,6 @@
 ---
 layout: post
-title: KI-ckstart: Welche Auswirkungen hat der European AI-Act für die europäische KI-Szene 
-Hybrider Vortrag von Simon Sack am 27.04.23, 18:00 Uhr
+title: "KI-ckstart" Welche Auswirkungen hat der European AI-Act für die europäische KI-Szene - Hybrider Vortrag von Simon Sack am 27.04.23, 18:00 Uhr
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
