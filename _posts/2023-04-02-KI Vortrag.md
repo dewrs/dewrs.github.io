@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KI-ckstart: Welche Auswirkungen hat der European AI-Act für die europäische KI-Szene - Hybrider Vortrag von Simon Sack
+title: Hybrider Vortrag von Simon Sack - "KI-ckstart" Welche Auswirkungen hat der European AI-Act für die europäische KI-Szene
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
