@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jetzt erst RECHT - "Vermögensteuer und Grundgesetz" - Hybrider Vortrag von Tim Niklas Dapprich
+title: Jetzt erst RECHT - "Vermögensteuer und Grundgesetz" - Hybrider Vortrag von Tim Niklas Dapprich, LL.M. am Dienstag den 09.05.
 image: /img/anmelden.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
