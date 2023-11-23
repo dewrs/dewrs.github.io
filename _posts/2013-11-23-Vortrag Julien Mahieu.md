@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Als Wirtschaftsjurist in Datenschutz- & Compliance-Abteilungen von Großunternehmen" - Vortrag von Dr. iur. Julien Mahieu, LL.M. am DO 30.11.2023, 18:30 Uhr, US-C 102
+title: "Als Wirtschaftsjurist in Datenschutz- und Compliance-Abteilungen von Großunternehmen" - Vortrag von Dr. iur. Julien Mahieu, LL.M. am DO 30.11.2023, 18:30 Uhr, US-C 102
 image: /img/anmelden.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
