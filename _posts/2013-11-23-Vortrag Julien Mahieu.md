@@ -4,6 +4,7 @@ title: "Als Wirtschaftsjurist in Datenschutz- & Compliance-Abteilungen von Groß
 image: /img/anmelden.jpg
 bigimg: /img/unteres_schloss.jpg
 ---
+
 Wir möchten euch zu einem Vortrag von **Herrn Dr. iur. Julien Mahieu, LL.M. am Donnerstag, den 30.11.23, um 18:30 Uhr in Raum US-C 102** einladen.
 Er ist Data Privacy & Compliance Officer bei der Rheinmetall AG in Düsseldorf und trägt zu dem Thema "Als Wirtschaftsjurist in Datenschutz- & Compliance-Abteilungen von Großunternehmen" vor.
  
