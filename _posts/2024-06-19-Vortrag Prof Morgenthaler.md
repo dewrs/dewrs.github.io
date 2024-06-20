@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jetzt erst Recht" - Konfliktherd Bergkarabach: Hintergründe und gegenwärtige Lage - Vortrag von Prof. Dr. Gerd Morgenthaler am 25.6, 18:00 Uhr
+title: "Jetzt erst Recht" - Konfliktherd Bergkarabach: Hintergründe und gegenwärtige Lage - Vortrag von Prof. Dr. Gerd Morgenthaler am 25.6, 18:00 Uhr, US-D 312
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
@@ -11,4 +11,4 @@ Herr Prof. Dr. Gerd Morgenthaler, Inhaber des Lehrstuhls für Öffentliches Rech
   
 Nutzt die Gelegenheit, einen ersten Überblick über ein aktuelles rechtspolitisches Thema zu erhalten. Wir würden uns sehr darüber freuen, Euch vor Ort begrüßen zu dürfen. 
   
-Für Snacks und Getränke ist gesorgt. 
+Für Snacks und Getränke ist gesorgt.
