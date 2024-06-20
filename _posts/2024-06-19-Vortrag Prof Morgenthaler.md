@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jetzt erst Recht" - Konfliktherd Bergkarabach: Hintergründe und gegenwärtige Lage - Vortrag von Prof. Dr. Gerd Morgenthaler am 25.6, 18:00 Uhr, US-D 312
+title: Jetzt erst Recht - Konfliktherd Bergkarabach: Hintergründe und gegenwärtige Lage - Vortrag von Prof. Dr. Gerd Morgenthaler am 25.6, 18:00 Uhr, US-D 312
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
