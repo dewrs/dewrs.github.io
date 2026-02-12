@@ -1,24 +1,26 @@
 ---
 layout: page
-title: Dominik Schmidt
+title: Jennifer Anna Karge
 subtitle: Vorstandsvorsitzender seit 12/2022
 bigimg: /img/siegen_bw.jpg
 ---
 
-Geb. 1993 in Siegen, NRW
+Geb. 2001 in Peine, NI
 
 Abschlüsse:
 
   * LL.B. DEWR, Universität Siegen (2017)
-  * LL.M. DEWR, Universität Siegen (2020)
-
-Aktuelle Tätigkeit:
-
-  * Seit 09/2020: Wissenschaftlicher Mitarbeiter und Doktorand an der Professur für Öffentliches Recht und Internationales Wirtschaftsrecht von Prof. Dr. iur. Jörn Griebel an der Universität Siegen
-  
-
-Dominik Schmidt: <dominik.s@siegener-wirtschaftsjuristen.de>
+  * studiert zurzeit im LL.M. DEWR, Universität Siegen 
  
+
+**Ehemaliger Vorstandsvorsitzender 10/2022-10/2024**
+
+Dominik Schmidt geb. 1993 in Siegen, NRW
+
+Abschlüsse:
+
+ * LL.B. DEWR, Universität Siegen (2017)
+ * LL.M. DEWR, Universität Siegen (2020)
 
 **Ehemalige Vorstandsvorsitzende 12/2018-11/2022**
 
