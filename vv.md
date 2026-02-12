@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jennifer Anna Karge
-subtitle: Vorstandsvorsitzender seit 12/2022
+subtitle: Vorstandsvorsitzende seit 11/2024
 bigimg: /img/siegen_bw.jpg
 ---
 
@@ -13,7 +13,7 @@ Abschlüsse:
   * studiert zurzeit im LL.M. DEWR, Universität Siegen 
  
 
-**Ehemaliger Vorstandsvorsitzender 10/2022-10/2024**
+**Ehemaliger Vorstandsvorsitzender 11/2022-11/2024**
 
 Dominik Schmidt geb. 1993 in Siegen, NRW
 
