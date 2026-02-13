@@ -9,7 +9,7 @@ Geb. 2001 in Peine, NI
 
 Abschlüsse:
 
-  * LL.B. DEWR, Universität Siegen (2017)
+  * LL.B. DEWR, Universität Siegen (2024)
   * studiert zurzeit im LL.M. DEWR, Universität Siegen 
  
 
