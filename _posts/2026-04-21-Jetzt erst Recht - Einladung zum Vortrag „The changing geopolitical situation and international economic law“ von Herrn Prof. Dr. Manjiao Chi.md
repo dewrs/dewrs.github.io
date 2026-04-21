@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jetzt erst Recht - Einladung zum Vortrag „The changing geopolitical situation and international economic law“ von Herrn Prof. Dr. Manjiao Chi.md
+title: Jetzt erst Recht - Einladung zum Vortrag „The changing geopolitical situation and international economic law“ von Herrn Prof. Dr. Manjiao Chi
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
