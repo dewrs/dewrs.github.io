@@ -5,9 +5,7 @@ image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
 	
-Liebe Mitglieder, 
-liebe Studierende,
-liebe Interessierte, der Siegener Wirtschaftsjuristenverein (SWJ) lädt Euch ganz herzlich zu einem weiteren Vortrag unserer Reihe „Jetzt erst Recht“ ein.
+Der Siegener Wirtschaftsjuristenverein (SWJ) lädt Euch ganz herzlich zu einem weiteren Vortrag unserer Reihe „Jetzt erst Recht“ ein.
 
 📅 Wann?
 Donnerstag, den 30.04.26, um 18:00 Uhr
