@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verständlichkeit ist keine Schande – Eine Expedition durch den juristischen Sprachdschungel - Vortrag von Prof. Dr. Roland Schimmel am 14.6, 18:30 Uhr
+title: Jetzt erst Recht - Einladung zum Vortrag „The changing geopolitical situation and international economic law“ von Herrn Prof. Dr. Manjiao Chi.md
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
