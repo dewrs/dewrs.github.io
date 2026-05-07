@@ -5,7 +5,7 @@ image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
 	
-Der Siegener Wirtschaftsjuristenverein (SWJ) lädt Euch ganz herzlich zu einem weiteren Vortrag aus der beruflichen Praxis ein.
+Der Siegener Wirtschaftsjuristenverein (SWJ) lädt Euch ganz herzlich zu einem weiteren Vortrag mit Schwerpunkt auf die berufliche Praxis ein.
 
 📅 Wann?
 Dienstag, den 19.05.26, um 18:00 Uhr
