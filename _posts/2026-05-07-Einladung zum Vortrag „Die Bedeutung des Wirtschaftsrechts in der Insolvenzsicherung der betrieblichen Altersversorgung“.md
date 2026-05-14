@@ -14,15 +14,16 @@ Dienstag, den 19.05.26, um 18:00 Uhr
 Universität Siegen, Raum US-C 102
 
 Der Vortrag mit dem Titel „Die Bedeutung des Wirtschaftsrechts in der Insolvenzsicherung der betrieblichen Altersversorgung“ wird von Frau Sabrina Gothe, Dipl. Vw (Köln) gehalten. 
-Sie ist Gruppenleiterin im Bereich „Insolvenz und Leistung“ des Pensions-Sicherungs-Verein VVaG (PSVaG) aus Köln. Dort werden Betriebsrenten bei Insolvenz des Arbeitgebers nach den Vorgaben des Betriebsrentengesetzes gesichert. 
+Sie ist Leiterin der Arbeitsgruppe "Sicherung" innerhalb der Abteilung "Leistung" des Pensions-Sicherungs-Verein VVaG (PSVaG) aus Köln. Dort werden Betriebsrenten bei Insolvenz des Arbeitgebers nach den Vorgaben des Betriebsrentengesetzes gesichert. 
 Bei der firmenrechtlichen Analyse der insolventen Arbeitgeber und der Ausgestaltung der Betriebsrenten werden Kenntnisse des Gesellschafts-, Arbeits- und Insolvenzrechts benötigt und kommen beim PSVaG zur praktischen Anwendung.
-Die Veranstaltung bietet Ihnen interessante, praxisnahe Einblicke und Kontakte. Zudem wird Ihnen der PSVaG als Arbeitgeber vorgestellt. 
 
-Ebenfalls zu Gast wird unsere Alumna Frau Meike Schneider, LL.M. (Siegen) sein. 
-Als Arbeitnehmerin des PSVaG wird sie ihre Praxiserfahrung mit uns teilen und für Rückfragen zur Verfügung stehen.
+Die Veranstaltung bietet Ihnen interessante, praxisnahe Einblicke und Kontakte. Ebenfalls zu Gast wird unsere Alumna Frau Meike Schneider, LL.M. (Siegen) sein. 
+Als Arbeitnehmerin des PSVaG wird sie ihre Praxiserfahrung mit uns teilen, den PSVaG als Arbeitgeber vorstellen und für Rückfragen zur Verfügung stehen.
+
+Weitere Informationen zum PSVaG finden sich auf dessen Karriereseite (https://karriere.psvag.de/) und LinkedIn-Profil (https://www.linkedin.com/company/psvag/?originalSubdomain=de).
 
 
-Für das leibliche Wohl wird gesorgt sein. Wir freuen uns sehr über Euer Kommen!
+Für das leibliche Wohl am Tag der Veranstaltung wird gesorgt sein. Wir freuen uns sehr über Euer Kommen!
 
 Viele Grüße
 
