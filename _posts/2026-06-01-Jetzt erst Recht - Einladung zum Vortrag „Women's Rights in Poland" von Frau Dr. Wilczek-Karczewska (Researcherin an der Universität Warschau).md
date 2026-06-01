@@ -4,8 +4,9 @@ title: Jetzt erst Recht - Einladung zum Vortrag von Frau Dr. Wilczek-Karczewska 
 image: /img/schloss.jpg
 bigimg: /img/schloss.jpg
 ---
-	
-Der Siegener Wirtschaftsjuristenverein (SWJ) lädt Euch ganz herzlich zu einem weiteren Vortrag der Reihe "Jetzt erst Recht" ein.
+Liebe Mitglieder und Interessierte,	
+
+der Siegener Wirtschaftsjuristenverein (SWJ) lädt Euch ganz herzlich zu einem weiteren Vortrag der Reihe "Jetzt erst Recht" ein.
 
 📅 Wann?
 Mittwoch, den 10.06.26, um 17:00 Uhr
